@@ -48,9 +48,9 @@
   ],
   "inProgress": [
     {
-      "title": "Improving **Welcome messages**",
-      "description": "Make the AI now send embeds with more structured and organized information when welcoming new members.\n\nAdd support for creating cusotmized banner images for welcome messages.",
-      "tag": "improvement"
+      "title": "**Custom branding** (👑)",
+      "description": "Allow servers to customize the bot's appearance with their own branding, including a custom avatar, bio, name, and more.",
+      "tag": "core"
     },
     {
       "title": "🔗 **Link moderation**",
@@ -65,9 +65,9 @@
   ],
   "todo": [
     {
-      "title": "**Custom branding** (👑)",
-      "description": "Allow servers to customize the bot's appearance with their own branding, including a custom avatar, bio, name, and more.",
-      "tag": "core"
+      "title": "Improving **Welcome messages**",
+      "description": "Make the AI now send embeds with more structured and organized information when welcoming new members.\n\nAdd support for creating cusotmized banner images for welcome messages.",
+      "tag": "improvement"
     },
     {
       "title": "🧩 **Role connections**",

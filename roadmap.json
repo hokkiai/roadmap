@@ -39,17 +39,17 @@
       "title": "🎭 **Reaction roles**",
       "description": "Helps you create a message where users can react to add or remove roles themselves.",
       "tag": "plugin"
+    },
+    {
+      "title": "📈 **Statistics Channels**",
+      "description": "Display your server's statistics directly in the channel sidebar and stay on track.",
+      "tag": "plugin"
     }
   ],
   "inProgress": [
     {
-      "title": "📈 **Statistics Channels**",
-      "description": "Display your server's statistics directly in the channel sidebar and stay on track.\n\nAvailable for all servers right now (beta).",
-      "tag": "plugin"
-    },
-    {
-      "title": "Improved **AI welcome messages**",
-      "description": "The AI now sends embeds with more structured and organized information when welcoming new members.",
+      "title": "Improving **Welcome messages**",
+      "description": "Make the AI now send embeds with more structured and organized information when welcoming new members.\n\nAdd support for creating cusotmized banner images for welcome messages.",
       "tag": "improvement"
     },
     {

@@ -1,0 +1,125 @@
+{
+  "done": [
+    {
+      "title": "Migrated from **hokki.shard.es** to **www.hokki.app**",
+      "description": "Updated the domain to a more professional one.",
+      "tag": "core"
+    },
+    {
+      "title": "**Premium plans**",
+      "description": "Added premium plans to unlock extra features and support the project.",
+      "tag": "core"
+    },
+    {
+      "title": "Added **talking style** option",
+      "description": "Lets you change the tone of the AI's responses. (e.g., formal, casual, humorous)",
+      "tag": "ai"
+    },
+    {
+      "title": "🎟️ **Tickets v1**",
+      "description": "Legacy ticket system without panel support.",
+      "tag": "plugin"
+    },
+    {
+      "title": "Transition to **OpenRouter**",
+      "description": "Switched from using OpenAI's API to OpenRouter for better performance and cost efficiency.",
+      "tag": "ai"
+    },
+    {
+      "title": "Recoded main plugin core system",
+      "description": "Improved the core system of the main plugin for better stability and performance.",
+      "tag": "core"
+    },
+    {
+      "title": "🎟️ **Tickets v2**",
+      "description": "Setup a ticket system for your server.",
+      "tag": "plugin"
+    },
+    {
+      "title": "🎭 **Reaction roles**",
+      "description": "Helps you create a message where users can react to add or remove roles for themselves.",
+      "tag": "plugin"
+    }
+  ],
+  "inProgress": [
+    {
+      "title": "📈 **Statistics Channels**",
+      "description": "Display your server's statistics directly in the channel sidebar and stay on track.\\n\\nAvailable for all servers right now (as a beta).",
+      "tag": "plugin"
+    },
+    {
+      "title": "Improveed **ai welcome messages**.",
+      "description": "Now the AI will send embeds with more organized information when welcoming new members.",
+      "tag": "improvement"
+    },
+    {
+      "title": "🔗 **Link moderation**",
+      "description": "Automatically moderate links posted in your server to prevent spam and unwanted content. Soon available in the moderation plugin.",
+      "tag": "plugin/moderation"
+    },
+    {
+      "title": "🏆 **Levels**",
+      "description": "The classic leveling system where users earn XP and level up based on their activity in the server. Rewards can be given based on levels achieved. Very customizable.",
+      "tag": "plugin"
+    }
+  ],
+  "todo": [
+    {
+      "title": "**Custom branding** (👑)",
+      "description": "Allow servers to customize the bot's appearance with their own branding, setting a custom avatar, bio, name, etc.",
+      "tag": "core"
+    },
+    {
+      "title": "📥 **Role connections**",
+      "description": "Track and manage server invites, monitor who invited whom, and gain insights into your community growth.",
+      "tag": "plugin"
+    },
+    {
+      "title": "📚 **Logs**",
+      "description": "Keep track of important actions in your server with detailed logs. Monitor message deletions, role changes, and more to maintain a safe and organized community.",
+      "tag": "plugin/moderation"
+    },
+    {
+      "title": "🔢 **Counter** channel",
+      "description": "A channel where users post numbers in order; if you mess up or double post, it resets.",
+      "tag": "plugin"
+    },
+    {
+      "title": "🌟 **Starboard**",
+      "description": "Let your community highlight the best messages by starring them! When a message receives a certain number of reactions, it gets showcased in a dedicated Starboard channel for everyone to see.",
+      "tag": "plugin"
+    },
+    {
+      "title": "🔊 **Temporal Channels**",
+      "description": "Create temporary voice channels that automatically delete themselves when empty, keeping your server organized and clutter-free.",
+      "tag": "plugin"
+    }
+  ],
+  "planned": [
+    {
+      "title": "🛜 **Social alerts**",
+      "description": "Send alerts to your server when a specified user posts on social media platforms like X, Tiktok, YouTube, Twitch...",
+      "tag": "plugins"
+    },
+    {
+      "title": "🎵 **Music**",
+      "description": "Play music in voice channels. Create playlists, add audio effects, and more.",
+      "tag": "plugin"
+    },
+    {
+      "title": "💸 **Economy** game",
+      "description": "A full economy system with jobs, a shop, and more.",
+      "tag": "plugin"
+    },
+    {
+      "title": "🎂 **Birthday** reminders",
+      "description": "Notify the server about members' birthdays with customizable messages and roles.",
+      "tag": "plugin"
+    },
+    {
+      "title": "📥 **Invite tracker**",
+      "description": "Track and manage server invites, monitor who invited whom, and gain insights into your community growth.",
+      "tag": "plugin"
+    }
+  ]
+}

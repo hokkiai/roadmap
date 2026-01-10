@@ -117,6 +117,11 @@
       "tag": "plugin"
     },
     {
+      "title": "🎯 **Sniper**",
+      "description": "Adds a slash command that lets you view the last deleted messages.",
+      "tag": "plugin"
+    },
+    {
       "title": "📥 **Invite tracker**",
       "description": "Track and manage server invites, monitor who invited who, and gain insights into your community growth.",
       "tag": "plugin"

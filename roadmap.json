@@ -70,8 +70,8 @@
       "tag": "core"
     },
     {
-      "title": "📥 **Role connections**",
-      "description": "Track and manage server invites, monitor who invited whom, and gain insights into your community growth.",
+      "title": "🧩 **Role connections**",
+      "description": "Automatically assigns roles to users based on whether they have specific roles or not.",
       "tag": "plugin"
     },
     {

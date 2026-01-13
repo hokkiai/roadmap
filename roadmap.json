@@ -61,6 +61,16 @@
       "title": "🏆 **Levels**",
       "description": "A classic leveling system where users earn XP and level up based on their server activity. Rewards can be granted based on achieved levels. Highly customizable.",
       "tag": "plugin"
+    },
+    {
+      "title": "Core moderation command upgrades",
+      "description": "Improve and reorganize all moderation commands + new moderation features (warnings, user management, etc.)",
+      "tag": "improvement"
+    },
+    {
+      "title": "Secure custom role management",
+      "description": "Bleed-style custom role system: create, edit and manage roles (including colors & gradients) without giving staff dangerous Discord permissions.",
+      "tag": "core"
     }
   ],
   "todo": [

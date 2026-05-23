@@ -53,88 +53,13 @@
       "tag": "core"
     },
     {
-      "title": "🔗 **Link moderation**",
-      "description": "Automatically moderate links posted in your server to prevent spam and unwanted content. Coming soon to the moderation plugin.",
-      "tag": "plugin/moderation"
-    },
-    {
-      "title": "🏆 **Levels**",
-      "description": "A classic leveling system where users earn XP and level up based on their server activity. Rewards can be granted based on achieved levels. Highly customizable.",
-      "tag": "plugin"
-    },
-    {
-      "title": "Core moderation command upgrades",
-      "description": "Improve and reorganize all moderation commands + new moderation features (warnings, user management, etc.)",
-      "tag": "improvement"
-    },
-    {
-      "title": "Secure custom role management",
-      "description": "Bleed-style custom role system: create, edit and manage roles (including colors & gradients) without giving staff dangerous Discord permissions.",
+      "title": "Transform Hokki into an autonomous AI agent.",
+      "description": "Hokki is evolving beyond a traditional Discord bot into a fully autonomous AI agent with memory, actions, voice capabilities, and deep integrations. This update will also redesign the dashboard experience and replace the current plugin-based system with a more intelligent and seamless architecture.",
       "tag": "core"
     }
   ],
   "todo": [
-    {
-      "title": "Improving **Welcome messages**",
-      "description": "Make the AI now send embeds with more structured and organized information when welcoming new members.\n\nAdd support for creating cusotmized banner images for welcome messages.",
-      "tag": "improvement"
-    },
-    {
-      "title": "🧩 **Role connections**",
-      "description": "Automatically assigns roles to users based on whether they have specific roles or not.",
-      "tag": "plugin"
-    },
-    {
-      "title": "📚 **Logs**",
-      "description": "Keep track of important actions in your server with detailed logs. Monitor message deletions, role changes, and more to maintain a safe and organized community.",
-      "tag": "plugin/moderation"
-    },
-    {
-      "title": "🔢 **Counter channel**",
-      "description": "A channel where users post numbers in order. If someone makes a mistake or double-posts, it resets.",
-      "tag": "plugin"
-    },
-    {
-      "title": "🌟 **Starboard**",
-      "description": "Let your community highlight the best messages by starring them. When a message reaches a certain number of reactions, it is showcased in a dedicated Starboard channel.",
-      "tag": "plugin"
-    },
-    {
-      "title": "🔊 **Temporary Channels**",
-      "description": "Create temporary voice channels that automatically delete themselves when empty, keeping your server organized and clutter-free.",
-      "tag": "plugin"
-    }
   ],
   "planned": [
-    {
-      "title": "🛜 **Social alerts**",
-      "description": "Send alerts to your server when a specified user posts on social platforms like X, TikTok, YouTube, or Twitch.",
-      "tag": "plugin"
-    },
-    {
-      "title": "🎵 **Music**",
-      "description": "Play music in voice channels. Create playlists, add audio effects, and more.",
-      "tag": "plugin"
-    },
-    {
-      "title": "💸 **Economy game**",
-      "description": "A full economy system with jobs, a shop, and more.",
-      "tag": "plugin"
-    },
-    {
-      "title": "🎂 **Birthday reminders**",
-      "description": "Notify the server about members' birthdays with customizable messages and roles.",
-      "tag": "plugin"
-    },
-    {
-      "title": "🎯 **Sniper**",
-      "description": "Adds a slash command that lets you view the last deleted messages.",
-      "tag": "plugin"
-    },
-    {
-      "title": "📥 **Invite tracker**",
-      "description": "Track and manage server invites, monitor who invited who, and gain insights into your community growth.",
-      "tag": "plugin"
-    }
   ]
 }

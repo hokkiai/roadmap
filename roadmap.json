@@ -57,9 +57,5 @@
       "description": "Hokki is evolving beyond a traditional Discord bot into a fully autonomous AI agent with memory, actions, voice capabilities, and deep integrations. This update will also redesign the dashboard experience and replace the current plugin-based system with a more intelligent and seamless architecture.",
       "tag": "core"
     }
-  ],
-  "todo": [
-  ],
-  "planned": [
   ]
 }
